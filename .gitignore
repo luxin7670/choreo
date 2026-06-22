@@ -28,3 +28,6 @@ tutorial/solutions/make_ex
 
 # Emacs backup files
 *~
+
+.hol
+.DS_Store
